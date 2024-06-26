@@ -1,6 +1,6 @@
-# rn-assignment5-11225319
+# rn-assignment5-11148680
 
-This project aims at making shares available to investors to purchase
+This project purpose at making shares available to investors to purchase
 
 ## Features
 
@@ -20,4 +20,4 @@ light screens
 
 1. Clone the repository:
    ```sh
-   https://github.com/mrrjew/rn-assignment5-11225319.git
+   https://github.com/Matthew-Mensah/rn-assignment5-11148680.git
